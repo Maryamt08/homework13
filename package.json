@@ -1,9 +1,20 @@
 {
   "dependencies": {
+    "bars": "^1.9.6",
     "express": "^4.17.1",
     "express-handlebars": "^5.2.1",
+    "handle": "^1.0.0",
     "handlebars": "^4.7.7",
     "mysql": "^2.18.1",
     "mysql2": "^2.2.5"
-  }
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "02-homework",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
